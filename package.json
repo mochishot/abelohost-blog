@@ -1,0 +1,8 @@
+{
+  "name": "fieldnotes-styles",
+  "private": true,
+  "scripts": {
+    "build": "sass --style=compressed --no-source-map assets/scss/app.scss public/assets/app.css"
+  },
+  "devDependencies": { "sass": "^1.93.0" }
+}
